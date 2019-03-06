@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Cherry+Swash);
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    height: 100%;
+    width: 100%;
+}
+
+html, body, #root {
+    height: 100%;
+}
+
+.heading{
+    font-family: 'Cherry Swash';
+    font-size: xx-large;
+}
+
+.list{
+    border: 1px solid;
+    padding: 5px;
+    margin: 14px 0px;
+}
+
